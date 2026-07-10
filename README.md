@@ -55,4 +55,4 @@ To prove the accuracy metric isn't just producing arbitrary numbers, the system 
 
 ## 🛠️ AI Tools Used
 
-This project was built with the assistance of **Claude Opus 4.6 (Thinking)** and **Gemini 3.1 Pro (High)** for architectural brainstorming, boilerplate generation, and debugging. The core dataset synthesis and generation pipeline utilizes **Meta Llama 3.3 70B**, while the LLM-as-a-judge evaluation utilizes **OpenAI GPT-OSS 120B** (both hosted on Groq).
+This project was built with the assistance of **Gemini 3.1 Pro (High)** for architectural brainstorming, boilerplate generation, and debugging. The core dataset synthesis and generation pipeline utilizes **Meta Llama 3.3 70B**, while the LLM-as-a-judge evaluation utilizes **OpenAI GPT-OSS 120B** (both hosted on Groq).
