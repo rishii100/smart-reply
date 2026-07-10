@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# LLM prompt cache (deterministic re-runs; regenerated on demand)
+.cache/
+
+# Live report outputs (committed samples live under reports/sample_*)
+reports/per_response.json
+reports/summary.json
+reports/meta_eval.json
+reports/report.html
+reports/generations.json
+
+# OS
+.DS_Store
+Thumbs.db

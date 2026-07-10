@@ -1,0 +1,15 @@
+# The CORE of this project has ZERO third-party dependencies.
+# Everything (Groq calls, TF-IDF retrieval, ROUGE/BLEU, correlations, HTML
+# report) is implemented against the Python 3.11+ standard library. This is a
+# deliberate reproducibility choice: it runs on a clean Python 3.14 with only a
+# GROQ_API_KEY, and avoids ML wheels that may not yet build on bleeding-edge
+# Python.
+#
+# There are NO required installs. This file lists purely OPTIONAL upgrades a
+# reviewer may want; the code runs fully without any of them.
+#
+#   pip install -r requirements.txt   # optional only
+
+# Optional: semantic retrieval upgrade (replaces the pure-python TF-IDF).
+# Not imported anywhere unless you wire it in; documented in the README.
+# sentence-transformers>=3.0
