@@ -1,0 +1,452 @@
+[
+  {
+    "email_id": "gen-bil-01-008",
+    "category": "billing",
+    "subject": "Request for proforma invoice for auditing purposes",
+    "incoming": "Hi Billing Team, our company requires a proforma invoice for auditing purposes. Could you please provide a proforma invoice for our recent order, including all relevant details and charges?",
+    "gold_reply": "Hi, I've generated a proforma invoice for your recent order, which is attached to this email. The document includes all relevant details, including charges, taxes, and payment terms. Please note that this proforma invoice is for auditing purposes only and does not constitute a formal invoice. If you have any further requests or questions, please don't hesitate to reach out.",
+    "generated_reply": "Hi, I've generated a proforma invoice for your recent order, which is attached to this email. The document includes all relevant details, including charges, taxes, and payment terms. Please note that this proforma invoice is for auditing purposes only and does not constitute a formal invoice. If you have any further requests or questions, please don't hesitate to reach out.\n\nBest regards,\nAI Email Assistant",
+    "retrieved_ids": [
+      "gen-bil-03-008",
+      "gen-bil-01-002",
+      "gen-bil-03-002"
+    ],
+    "retrieved_scores": [
+      1.0,
+      0.2214,
+      0.2214
+    ]
+  },
+  {
+    "email_id": "gen-bil-02-002",
+    "category": "billing",
+    "subject": "Request for detailed breakdown of charges on invoice",
+    "incoming": "Dear Billing Team, I'd like to request a detailed breakdown of the charges listed on our recent invoice INV-67890. Specifically, could you provide an itemized list of the services and fees associated with each charge? This will help our accounting team with their reconciliation process.",
+    "gold_reply": "Hi, I've attached a detailed breakdown of the charges on your recent invoice INV-67890. The document includes an itemized list of services, fees, and corresponding charges. If you have any further questions or concerns, please don't hesitate to reach out. I'm happy to provide additional clarification or support.",
+    "generated_reply": "Hi, \nI've attached a detailed breakdown of the charges on your recent invoice INV-67890. The document includes an itemized list of services, fees, and corresponding charges. If you have any further questions or concerns, please don't hesitate to reach out. I'm happy to provide additional clarification or support.\nBest regards,",
+    "retrieved_ids": [
+      "gen-bil-01-002",
+      "gen-bil-03-002",
+      "gen-bil-03-008"
+    ],
+    "retrieved_scores": [
+      1.0,
+      1.0,
+      0.2214
+    ]
+  },
+  {
+    "email_id": "gen-bil-02-008",
+    "category": "billing",
+    "subject": "Request for proforma invoice for auditing purposes",
+    "incoming": "Hi Billing Team, our company requires a proforma invoice for auditing purposes. Could you please provide a proforma invoice for our recent order, including all relevant details and charges?",
+    "gold_reply": "Hi, I've generated a proforma invoice for your recent order, which is attached to this email. The document includes all relevant details, including charges, taxes, and payment terms. Please note that this proforma invoice is for auditing purposes only and does not constitute a formal invoice. If you have any further requests or questions, please don't hesitate to reach out.",
+    "generated_reply": "Hi, I've generated a proforma invoice for your recent order, which is attached to this email. The document includes all relevant details, including charges, taxes, and payment terms. Please note that this proforma invoice is for auditing purposes only and does not constitute a formal invoice. If you have any further requests or questions, please don't hesitate to reach out.\n\nBest regards,\nAI Email Assistant",
+    "retrieved_ids": [
+      "gen-bil-03-008",
+      "gen-bil-01-002",
+      "gen-bil-03-002"
+    ],
+    "retrieved_scores": [
+      1.0,
+      0.2214,
+      0.2214
+    ]
+  },
+  {
+    "email_id": "gen-bil-03-007",
+    "category": "billing",
+    "subject": "Dispute of late payment fees",
+    "incoming": "To Whom It May Concern, I'm writing to dispute the late payment fees applied to our recent invoice. Our company paid the invoice on time, but the payment was not processed correctly, resulting in the late fees. Could you please investigate this matter and provide a refund if necessary?",
+    "gold_reply": "Dear Sir/Madam, thank you for bringing this matter to our attention. I've reviewed the payment history and confirmed that the payment was made on time, but not processed correctly. I've processed a refund for the late fees, which will be credited back to your account within 3-5 business days. Please note that we've also updated our system to prevent such errors from occurring in the future.",
+    "generated_reply": "Dear Sir/Madam, \nthank you for bringing this matter to our attention. I've reviewed the payment history and confirmed that the payment was made on time, but not processed correctly. I've processed a refund for the late fees, which will be credited back to your account within 3-5 business days. Please note that we've also updated our system to prevent such errors from occurring in the future.\nSincerely, [AI Email Assistant]",
+    "retrieved_ids": [
+      "gen-bil-01-007",
+      "gen-bil-02-007",
+      "gen-bil-01-003"
+    ],
+    "retrieved_scores": [
+      1.0,
+      1.0,
+      0.5729
+    ]
+  },
+  {
+    "email_id": "gen-cus-01-007",
+    "category": "customer_support",
+    "subject": "Payment Method and Subscription Renewal Issue",
+    "incoming": "Dear Support Team, I'm having trouble with my subscription renewal. My credit card was declined, and I'm not sure why. I've checked my account settings, and the payment method is correct. Can you please assist me with resolving this issue and ensuring that my subscription is renewed? My subscription ID is #SUB1234, and I've attached a screenshot of the error message I'm getting. Thanks, James Wilson",
+    "gold_reply": "Hi James, Sorry to hear that you're having trouble with your subscription renewal. I've investigated the issue and found that the credit card on file has expired. I've updated the payment method with the new expiration date you provided. Your subscription has been successfully renewed, and you should receive a confirmation email shortly. If you have any further questions or concerns, please don't hesitate to reach out. Thank you for your patience and cooperation. Best, Karen Customer Support",
+    "generated_reply": "Hi James, \nSorry to hear that you're having trouble with your subscription renewal. I've investigated the issue and found that the credit card on file has expired. To resolve this, please update your payment method with the new expiration date. You can do this by logging into your account settings and editing your payment information. Once updated, your subscription will be automatically renewed. If you need assistance with this process, please let me know and I'll be happy to guide you through it. Your subscription ID #SUB1234 has been noted, and I've reviewed the screenshot of the error message you attached. If you have any further questions or concerns, please don't hesitate to reach out. \nBest, \nKaren Customer Support",
+    "retrieved_ids": [
+      "gen-cus-02-007",
+      "gen-cus-03-007",
+      "gen-cus-01-005"
+    ],
+    "retrieved_scores": [
+      1.0,
+      1.0,
+      0.359
+    ]
+  },
+  {
+    "email_id": "gen-cus-02-006",
+    "category": "customer_support",
+    "subject": "Order Tracking and Delivery Inquiry",
+    "incoming": "Hi Support, I placed an order (ID #ORD9012) on February 20th, but I haven't received any updates on the shipping status. Can you please provide me with the tracking information and an estimated delivery date? The order contains a Smart Speaker X1, and I'm getting concerned that it might be lost in transit. Thanks, Mark Davis",
+    "gold_reply": "Hi Mark, Sorry to hear that you're concerned about your order. I've checked the shipping status, and it appears that the order was shipped via UPS on February 22nd. The tracking number is #1Z12345678901234. You can track the package on the UPS website using this number. According to the tracking information, the package is currently in transit and expected to arrive on March 1st. If you have any further questions or concerns, please don't hesitate to reach out. Thank you for your patience and understanding. Best, Rachel Customer Support",
+    "generated_reply": "Hi Mark, \nSorry to hear that you're concerned about your order. I've checked the shipping status, and it appears that the order was shipped via UPS on February 22nd. The tracking number is #1Z12345678901234. You can track the package on the UPS website using this number. According to the tracking information, the package is currently in transit and expected to arrive on March 1st. If you have any further questions or concerns, please don't hesitate to reach out. Thank you for your patience and understanding. \nBest, Rachel Customer Support",
+    "retrieved_ids": [
+      "gen-cus-01-006",
+      "gen-cus-03-006",
+      "gen-cus-01-001"
+    ],
+    "retrieved_scores": [
+      1.0,
+      1.0,
+      0.1836
+    ]
+  },
+  {
+    "email_id": "gen-cus-02-008",
+    "category": "customer_support",
+    "subject": "Product Compatibility and Recommendation Inquiry",
+    "incoming": "Hi Support, I'm looking for a new laptop, and I'm considering purchasing the Laptop X5 from your website. However, I'm not sure if it's compatible with my current software and hardware. Can you please provide me with more information about the laptop's specifications and compatibility? I'm currently using a Windows 10 operating system, and I need a laptop that can run my software smoothly. Thanks, William Brown",
+    "gold_reply": "Hi William, Thank you for considering the Laptop X5! I'd be happy to help you with your inquiry. The Laptop X5 is a Windows 10 compatible device, and it should run your software smoothly. The laptop features an Intel Core i7 processor, 16GB of RAM, and a 512GB SSD. I've attached a detailed specification sheet for your review. If you have any further questions or concerns, please don't hesitate to reach out. We also offer a 30-day money-back guarantee, so you can try the laptop risk-free. Best, Michael Customer Support",
+    "generated_reply": "Hi William, \nThank you for considering the Laptop X5! I'd be happy to help you with your inquiry. The Laptop X5 is a Windows 10 compatible device, and it should run your software smoothly. The laptop features an Intel Core i7 processor, 16GB of RAM, and a 512GB SSD. I've attached a detailed specification sheet for your review. If you have any further questions or concerns, please don't hesitate to reach out. We also offer a 30-day money-back guarantee, so you can try the laptop risk-free. \nBest, \nMichael Customer Support",
+    "retrieved_ids": [
+      "gen-cus-01-008",
+      "gen-sal-01-001",
+      "gen-sal-02-001"
+    ],
+    "retrieved_scores": [
+      1.0,
+      0.1179,
+      0.1179
+    ]
+  },
+  {
+    "email_id": "gen-cus-03-008",
+    "category": "customer_support",
+    "subject": "Product Compatibility and Recommendation Inquiry",
+    "incoming": "Hi Support, I'm looking for a new laptop, and I'm considering purchasing the Laptop X5 from your website. However, I'm not sure if it's compatible with my current software and hardware. Can you please provide me with more information about the laptop's specifications and compatibility? I'm currently using a Windows 10 operating system, and I need a laptop that can run my software smoothly. Thanks, William Brown",
+    "gold_reply": "Hi William, Thank you for considering the Laptop X5! I'd be happy to help you with your inquiry. The Laptop X5 is a Windows 10 compatible device, and it should run your software smoothly. The laptop features an Intel Core i7 processor, 16GB of RAM, and a 512GB SSD. I've attached a detailed specification sheet for your review. If you have any further questions or concerns, please don't hesitate to reach out. We also offer a 30-day money-back guarantee, so you can try the laptop risk-free. Best, Michael Customer Support",
+    "generated_reply": "Hi William, \nThank you for considering the Laptop X5! I'd be happy to help you with your inquiry. The Laptop X5 is a Windows 10 compatible device, and it should run your software smoothly. The laptop features an Intel Core i7 processor, 16GB of RAM, and a 512GB SSD. I've attached a detailed specification sheet for your review. If you have any further questions or concerns, please don't hesitate to reach out. We also offer a 30-day money-back guarantee, so you can try the laptop risk-free. \nBest, \nMichael Customer Support",
+    "retrieved_ids": [
+      "gen-cus-01-008",
+      "gen-sal-01-001",
+      "gen-sal-02-001"
+    ],
+    "retrieved_scores": [
+      1.0,
+      0.1179,
+      0.1179
+    ]
+  },
+  {
+    "email_id": "gen-int-01-002",
+    "category": "internal_ops",
+    "subject": "Request for Conference Room Booking",
+    "incoming": "Hi Karen,\n\nI need to book the large conference room for a meeting with our sales team on Thursday at 2pm. Can you please let me know if it's available? If not, what are the alternative options?\n\nThanks,\nMichael",
+    "gold_reply": "Hi Michael,\n\nThe large conference room is available on Thursday at 2pm. I've booked it for you. If you need any audio-visual equipment or catering, please let me know by Wednesday so I can arrange for it.\n\nBest,\nKaren",
+    "generated_reply": "Hi Michael,\n\nThe large conference room is available on Thursday at 2pm. I've booked it for you. If you need any audio-visual equipment or catering, please let me know by Wednesday so I can arrange for it.\n\nBest,\nKaren",
+    "retrieved_ids": [
+      "gen-int-02-002",
+      "gen-int-03-002",
+      "gen-sch-01-001"
+    ],
+    "retrieved_scores": [
+      1.0,
+      1.0,
+      0.201
+    ]
+  },
+  {
+    "email_id": "gen-int-02-008",
+    "category": "internal_ops",
+    "subject": "Request for Update on the Company's Diversity and Inclusion Initiatives",
+    "incoming": "Hi Julia,\n\nI've been interested in learning more about the company's diversity and inclusion initiatives. Can you please provide an update on the current status and any upcoming plans?\n\nThanks,\nBrian",
+    "gold_reply": "Hi Brian,\n\nWe've made significant progress on our diversity and inclusion initiatives over the past year. We've implemented diversity training for all employees, increased our hiring of underrepresented groups, and established an employee resource group for LGBTQ+ employees. We're also planning to launch a mentorship program for underrepresented groups in the next quarter. I'd be happy to provide more details and answer any questions you may have.\n\nBest,\nJulia",
+    "generated_reply": "Hi Brian,\n\nWe've made significant progress on our diversity and inclusion initiatives over the past year. We've implemented diversity training for all employees, increased our hiring of underrepresented groups by 25%, and established an employee resource group for LGBTQ+ employees. We're also planning to launch a mentorship program for underrepresented groups in the next quarter, targeting a start date of April 1st. I'd be happy to provide more details and answer any questions you may have.\n\nBest,\nJulia",
+    "retrieved_ids": [
+      "gen-int-01-008",
+      "gen-bil-01-006",
+      "gen-bil-02-006"
+    ],
+    "retrieved_scores": [
+      1.0,
+      0.1708,
+      0.1708
+    ]
+  },
+  {
+    "email_id": "gen-int-03-008",
+    "category": "internal_ops",
+    "subject": "Request for Update on the Company's Diversity and Inclusion Initiatives",
+    "incoming": "Hi Julia,\n\nI've been interested in learning more about the company's diversity and inclusion initiatives. Can you please provide an update on the current status and any upcoming plans?\n\nThanks,\nBrian",
+    "gold_reply": "Hi Brian,\n\nWe've made significant progress on our diversity and inclusion initiatives over the past year. We've implemented diversity training for all employees, increased our hiring of underrepresented groups, and established an employee resource group for LGBTQ+ employees. We're also planning to launch a mentorship program for underrepresented groups in the next quarter. I'd be happy to provide more details and answer any questions you may have.\n\nBest,\nJulia",
+    "generated_reply": "Hi Brian,\n\nWe've made significant progress on our diversity and inclusion initiatives over the past year. We've implemented diversity training for all employees, increased our hiring of underrepresented groups by 25%, and established an employee resource group for LGBTQ+ employees. We're also planning to launch a mentorship program for underrepresented groups in the next quarter, targeting a start date of April 1st. I'd be happy to provide more details and answer any questions you may have.\n\nBest,\nJulia",
+    "retrieved_ids": [
+      "gen-int-01-008",
+      "gen-bil-01-006",
+      "gen-bil-02-006"
+    ],
+    "retrieved_scores": [
+      1.0,
+      0.1708,
+      0.1708
+    ]
+  },
+  {
+    "email_id": "gen-sal-01-004",
+    "category": "sales_inquiry",
+    "subject": "Onboarding Process",
+    "incoming": "Hello,\nWe're interested in your product, but we're concerned about the onboarding process. Could you please provide information on what to expect and how long it typically takes?\nThanks,\nSarah Taylor",
+    "gold_reply": "Hi Sarah,\nThanks for reaching out. Our onboarding process is designed to be smooth and efficient. We provide a dedicated onboarding specialist who will guide you through the process, which typically takes 2-3 weeks. We also offer extensive documentation and training resources to ensure you get the most out of our product.\nBest,\nEmily Chen\nCustomer Success Manager",
+    "generated_reply": "Hi Sarah,\nThanks for reaching out. Our onboarding process is designed to be smooth and efficient. We provide a dedicated onboarding specialist who will guide you through the process, which typically takes 2-3 weeks. We also offer extensive documentation and training resources to ensure you get the most out of our product.\nBest,\nEmily Chen\nCustomer Success Manager",
+    "retrieved_ids": [
+      "gen-sal-02-004",
+      "gen-int-01-006",
+      "gen-int-02-006"
+    ],
+    "retrieved_scores": [
+      1.0,
+      0.2719,
+      0.2719
+    ]
+  },
+  {
+    "email_id": "gen-sal-01-008",
+    "category": "sales_inquiry",
+    "subject": "Integration with Existing Tools",
+    "incoming": "Hello,\nWe're interested in your product, but we need to integrate it with our existing tools. Could you please provide information on your integration options and whether you have pre-built integrations with popular tools?\nThanks,\nWilliam Lee",
+    "gold_reply": "Hi William,\nThanks for reaching out. We offer a range of integration options, including pre-built integrations with popular tools like Salesforce and HubSpot. We also have an open API that allows for custom integrations. I'd be happy to discuss your specific integration needs and provide more information on our integration options.\nBest,\nAmanda Garcia\nIntegration Specialist",
+    "generated_reply": "Hi William,\nThanks for reaching out. We offer a range of integration options, including pre-built integrations with popular tools like Salesforce and HubSpot. We also have an open API that allows for custom integrations. I'd be happy to discuss your specific integration needs and provide more information on our integration options.\nBest,\nAmanda Garcia\nIntegration Specialist",
+    "retrieved_ids": [
+      "gen-sal-02-008",
+      "gen-sal-03-008",
+      "gen-sal-01-006"
+    ],
+    "retrieved_scores": [
+      1.0,
+      1.0,
+      0.2695
+    ]
+  },
+  {
+    "email_id": "gen-sal-03-003",
+    "category": "sales_inquiry",
+    "subject": "Comparison with Competitor",
+    "incoming": "Hi,\nWe're evaluating your product against CompetitorY. Could you please provide a comparison of features and pricing? We're looking for the best value for our money.\nThanks,\nMichael Brown",
+    "gold_reply": "Hi Michael,\nThanks for considering our product. We've put together a comprehensive comparison guide that outlines the key differences between our product and CompetitorY. In terms of features, we offer more advanced analytics and better customer support. Pricing-wise, we're competitive, but our product offers more value for the price. I'd be happy to discuss this further and provide a personalized demo.\nBest,\nKevin White\nSales Manager",
+    "generated_reply": "Hi Michael,\nThanks for considering our product. We've put together a comprehensive comparison guide that outlines the key differences between our product and CompetitorY. In terms of features, we offer more advanced analytics and better customer support. Pricing-wise, we're competitive, but our product offers more value for the price. I'd be happy to discuss this further and provide a personalized demo.\nBest,\nKevin White\nSales Manager",
+    "retrieved_ids": [
+      "gen-sal-01-003",
+      "gen-sal-02-003",
+      "gen-sal-01-007"
+    ],
+    "retrieved_scores": [
+      1.0,
+      1.0,
+      0.1974
+    ]
+  },
+  {
+    "email_id": "gen-sal-03-004",
+    "category": "sales_inquiry",
+    "subject": "Onboarding Process",
+    "incoming": "Hello,\nWe're interested in your product, but we're concerned about the onboarding process. Could you please provide information on what to expect and how long it typically takes?\nThanks,\nSarah Taylor",
+    "gold_reply": "Hi Sarah,\nThanks for reaching out. Our onboarding process is designed to be smooth and efficient. We provide a dedicated onboarding specialist who will guide you through the process, which typically takes 2-3 weeks. We also offer extensive documentation and training resources to ensure you get the most out of our product.\nBest,\nEmily Chen\nCustomer Success Manager",
+    "generated_reply": "Hi Sarah,\nThanks for reaching out. Our onboarding process is designed to be smooth and efficient. We provide a dedicated onboarding specialist who will guide you through the process, which typically takes 2-3 weeks. We also offer extensive documentation and training resources to ensure you get the most out of our product.\nBest,\nEmily Chen\nCustomer Success Manager",
+    "retrieved_ids": [
+      "gen-sal-02-004",
+      "gen-int-01-006",
+      "gen-int-02-006"
+    ],
+    "retrieved_scores": [
+      1.0,
+      0.2719,
+      0.2719
+    ]
+  },
+  {
+    "email_id": "gen-sal-03-007",
+    "category": "sales_inquiry",
+    "subject": "Scalability and Growth",
+    "incoming": "Hi,\nWe're a growing company, and we're looking for a product that can scale with us. Could you please provide information on your product's scalability and whether it can support our growth?\nThanks,\nJessica Martin",
+    "gold_reply": "Hi Jessica,\nThanks for reaching out. Our product is designed to scale with your business. We've implemented a robust infrastructure that can handle large volumes of data and traffic. I'd be happy to provide more information on our scalability features and discuss how our product can support your growth.\nBest,\nChristopher Brooks\nSales Engineer",
+    "generated_reply": "Hi Jessica,\nThanks for reaching out. Our product is designed to scale with your business. We've implemented a robust infrastructure that can handle large volumes of data and traffic. I'd be happy to provide more information on our scalability features and discuss how our product can support your growth.\nBest,\nChristopher Brooks\nSales Engineer",
+    "retrieved_ids": [
+      "gen-sal-01-007",
+      "gen-sal-02-007",
+      "gen-sal-01-001"
+    ],
+    "retrieved_scores": [
+      1.0,
+      1.0,
+      0.2001
+    ]
+  },
+  {
+    "email_id": "gen-sch-01-005",
+    "category": "scheduling",
+    "subject": "Changing the date of the conference call",
+    "incoming": "Hi Olivia, I need to change the date of our conference call that's set for this Thursday. Our CEO wants to join the call and he's not available on Thursday. Would it be possible to move it to the following Tuesday at the same time? I apologize for any inconvenience this may cause. Thanks, Julian",
+    "gold_reply": "Hi Julian, that's not a problem at all. I've updated the calendar invite to reflect the new date and time. I'll make sure to send out a reminder to everyone on the team so they're aware of the change. If you need to make any further changes, please let me know as soon as possible. Best, Olivia",
+    "generated_reply": "Hi Julian, that's not a problem at all. I've updated the calendar invite to reflect the new date and time, which will now be next Tuesday at the same time as originally scheduled. I'll send out a reminder to everyone on the team so they're aware of the change. If you need to make any further changes, please let me know as soon as possible. Best, Olivia",
+    "retrieved_ids": [
+      "gen-sch-02-005",
+      "gen-sch-03-005",
+      "gen-sch-01-002"
+    ],
+    "retrieved_scores": [
+      1.0,
+      1.0,
+      0.3288
+    ]
+  },
+  {
+    "email_id": "gen-sch-02-003",
+    "category": "scheduling",
+    "subject": "Coordinating a team meeting across different time zones",
+    "incoming": "Hi Team, we need to schedule a meeting to discuss the upcoming project. We have team members in New York, London, and Tokyo. I was thinking we could meet on Tuesday or Wednesday. What time works best for everyone? Please let me know your availability and I'll do my best to find a time that suits everyone. Thanks, Michael",
+    "gold_reply": "Hi Michael, considering the time zones, I think the best option would be to meet on Wednesday at 8am ET (1pm London, 10pm Tokyo). This way, everyone can join without having to be too early or too late. If this time doesn't work for anyone, please let me know and we can try to find an alternative. Best, Emily",
+    "generated_reply": "Hi Michael, considering the time zones, I think the best option would be to meet on Wednesday at 7am ET (12pm London, 9pm Tokyo). This way, everyone can join without having to be too early or too late. If this time doesn't work for anyone, please let me know by Friday so we can try to find an alternative. Best, Emily",
+    "retrieved_ids": [
+      "gen-sch-01-003",
+      "gen-sch-03-003",
+      "gen-sch-01-008"
+    ],
+    "retrieved_scores": [
+      1.0,
+      1.0,
+      0.6466
+    ]
+  },
+  {
+    "email_id": "gen-sch-02-004",
+    "category": "scheduling",
+    "subject": "Scheduling a training session",
+    "incoming": "Hi Chris, I hope you're doing well. I'm reaching out to schedule a training session for our new software. I'm available to conduct the training on Monday, Tuesday, or Wednesday of next week. What time works best for your team? We can do it in person or via video conference, whichever you prefer. Let me know your thoughts. Best, Kevin",
+    "gold_reply": "Hi Kevin, thanks for offering to conduct the training session. Monday at 10am works perfectly for my team. We'd prefer to do it in person, if possible. If that's not feasible, video conference is fine too. Please let me know what you need from us to make this happen. Thanks, Chris",
+    "generated_reply": "Hi Kevin, thanks for offering to conduct the training session. Monday at 2pm works best for my team. We'd prefer to do it in person, if possible, but if that's not feasible, video conference is also acceptable. To confirm, could you please send over a brief agenda for the training session by Friday of this week? This will help us prepare and ensure we get the most out of the training. Thanks, Chris",
+    "retrieved_ids": [
+      "gen-sch-01-004",
+      "gen-sch-03-004",
+      "gen-sch-01-007"
+    ],
+    "retrieved_scores": [
+      1.0,
+      1.0,
+      0.3956
+    ]
+  },
+  {
+    "email_id": "gen-sch-02-007",
+    "category": "scheduling",
+    "subject": "Scheduling a follow-up meeting",
+    "incoming": "Hi Ava, I hope you're doing well. I wanted to follow up on our previous meeting and discuss some of the points we touched on. Are you available to meet this week or next? I'm open to meeting at your office or via video conference. Let me know what works best for you. Best, Liam",
+    "gold_reply": "Hi Liam, thanks for reaching out. I'd love to follow up on our previous discussion. This week is a bit busy for me, but next week works perfectly. How about Wednesday at 11am? We can do it via video conference if that's more convenient for you. Looking forward to it. Best, Ava",
+    "generated_reply": "Hi Liam, thanks for reaching out. I'd love to follow up on our previous discussion. This week is a bit busy for me, but next week works perfectly. How about Wednesday at 11am? We can do it via video conference if that's more convenient for you. Looking forward to it. Best, Ava",
+    "retrieved_ids": [
+      "gen-sch-01-007",
+      "gen-sch-03-007",
+      "gen-sch-01-001"
+    ],
+    "retrieved_scores": [
+      1.0,
+      1.0,
+      0.5148
+    ]
+  },
+  {
+    "email_id": "seed-001",
+    "category": "customer_support",
+    "subject": "App keeps crashing after the 4.2 update",
+    "incoming": "Hi team,\n\nSince updating to version 4.2 yesterday, the mobile app crashes every time I open the Reports tab. I'm on an iPhone 13, iOS 17.5. I've already tried reinstalling the app and restarting my phone.\n\nI need those reports for a client meeting on Thursday. Can you tell me if there's a workaround, and when a fix is expected?\n\nThanks,\nMaya Prentiss",
+    "gold_reply": "Hi Maya,\n\nI'm sorry about the crashes — that's frustrating right before a client meeting, and I appreciate you already trying a reinstall.\n\nWe've confirmed a bug in 4.2 affecting the Reports tab on iOS and a fix (4.2.1) is with Apple for review; we expect it live within 48 hours. In the meantime, your reports are fully available on the web dashboard at app.example.com/reports — the same data, exportable to PDF, so you'll be covered for Thursday.\n\nI've added your ticket to the incident so you'll get an email the moment 4.2.1 ships. If the web dashboard gives you any trouble, reply here and I'll pull the exports for you myself.\n\nBest,\nSam\nCustomer Support",
+    "generated_reply": "Hi Maya,\n\nThank you for reporting the issue with the mobile app crashing after the 4.2 update. I've escalated the problem to our development team, and they're investigating the cause. In the meantime, I can offer a temporary workaround: you can access the reports through our web portal, which can be found at [web portal URL]. This should allow you to retrieve the necessary information for your client meeting on Thursday.\n\nRegarding a fix, our development team is working on a patch, which is expected to be released by Friday. I'll keep you updated on the status and notify you as soon as the update is available. If you have any further questions or concerns, please don't hesitate to reach out.\n\nBest,\nJames",
+    "retrieved_ids": [
+      "gen-int-01-005",
+      "gen-int-02-005",
+      "gen-int-03-005"
+    ],
+    "retrieved_scores": [
+      0.1899,
+      0.1899,
+      0.1899
+    ]
+  },
+  {
+    "email_id": "seed-004",
+    "category": "scheduling",
+    "subject": "Coffee chat next week?",
+    "incoming": "Hey!\n\nGreat meeting you at the product meetup on Tuesday. Would love to continue our chat about onboarding flows. Are you free for a coffee sometime next week? I'm flexible Tuesday through Thursday.\n\nCheers,\nNina",
+    "gold_reply": "Hi Nina,\n\nGreat to hear from you — I really enjoyed that conversation too!\n\nNext week works well. How about Wednesday at 10:30am at Grounded on 5th Street? If mornings are tricky, I could also do Thursday after 3pm.\n\nLooking forward to digging into onboarding flows properly.\n\nCheers,\nAlex",
+    "generated_reply": "Hi Nina, \n\nGreat to hear from you and thanks for reaching out. I also enjoyed our conversation at the product meetup on Tuesday. I'd love to continue discussing onboarding flows with you over coffee. How about we schedule it for Wednesday next week? Would you be available around 10am or 2pm? Let me know which time works best for you, and I'll make sure to book a spot at a coffee shop near our office.\n\nBest, Samantha",
+    "retrieved_ids": [
+      "gen-sch-01-001",
+      "gen-sch-02-001",
+      "gen-sch-03-001"
+    ],
+    "retrieved_scores": [
+      0.2177,
+      0.2177,
+      0.2177
+    ]
+  },
+  {
+    "email_id": "seed-010",
+    "category": "internal_ops",
+    "subject": "Laptop refresh — action needed by Friday",
+    "incoming": "Hi Alex,\n\nYour laptop is due for its 3-year refresh. Please pick your replacement model in the IT portal (portal.internal/refresh) by Friday and choose a pickup slot. Old device must be returned within 5 working days of receiving the new one.\n\nThanks,\nIT Service Desk",
+    "gold_reply": "Hi IT team,\n\nDone — I've selected the 14\" model in the portal and booked pickup for Tuesday 10am. I'll return my current laptop the same day if that works, otherwise within the 5-day window.\n\nOne question: my current machine has a local VM I use for testing. Is there a recommended way to migrate it, or should I file a separate ticket for that?\n\nThanks,\nAlex",
+    "generated_reply": "Hi IT Service Desk,\n\nThank you for letting me know that my laptop is due for a refresh. I will visit the IT portal (portal.internal/refresh) by Friday to select my replacement model and choose a pickup slot. I understand that I need to return my old device within 5 working days of receiving the new one, and I will make sure to do so.\n\nBest,\nAlex",
+    "retrieved_ids": [
+      "gen-cus-01-008",
+      "seed-005",
+      "gen-bil-01-004"
+    ],
+    "retrieved_scores": [
+      0.2677,
+      0.177,
+      0.0923
+    ]
+  },
+  {
+    "email_id": "seed-011",
+    "category": "internal_ops",
+    "subject": "Need your input on the Q4 hiring plan by Wednesday",
+    "incoming": "Hi Alex,\n\nI'm finalizing the Q4 hiring plan for leadership review. For your team, I have you down for 2 backend engineers and 1 designer. Can you confirm those numbers, flag any changes, and send me one-line justifications for each role by Wednesday EOD? If anything's changed since our last chat, let's grab 15 minutes.\n\nThanks,\nSofia Ramos\nHead of People",
+    "gold_reply": "Hi Sofia,\n\nConfirming with one change: 2 backend engineers stays, but I'd like to swap the designer for a product analyst — our design bandwidth is covered through Q1 after Kim's return, while analytics is now the bottleneck.\n\nJustifications:\n- Backend engineer #1: payments migration needs a dedicated owner; currently splitting one engineer across two workstreams.\n- Backend engineer #2: on-call load is unsustainable at 4 engineers; fifth brings rotation to industry standard.\n- Product analyst (replacing designer): three roadmap decisions slipped last quarter waiting on data; no dedicated analyst on the team today.\n\nHappy to grab 15 minutes if the swap complicates the plan — I'm free Wednesday before noon.\n\nThanks,\nAlex",
+    "generated_reply": "Hi Sofia,\n\nI've reviewed the numbers, and I confirm the need for 2 backend engineers to support our upcoming project scaling. However, I'd like to adjust the designer role to a UX researcher, as our current design team is adequately staffed, but we lack dedicated UX research capabilities. \n\nHere are the one-line justifications for each role:\n- Backend Engineer 1: To lead the development of our new API gateway, ensuring scalability and security.\n- Backend Engineer 2: To focus on optimizing database performance, reducing latency by 30%.\n- UX Researcher: To conduct user studies and analyze feedback, informing our product roadmap and enhancing user experience.\n\nIf you'd like to discuss these adjustments further, I'm available for a 15-minute call today or tomorrow. Please let me know a time that suits you.\n\nBest,\nAlex",
+    "retrieved_ids": [
+      "seed-012",
+      "seed-006",
+      "gen-cus-01-002"
+    ],
+    "retrieved_scores": [
+      0.1898,
+      0.1877,
+      0.1663
+    ]
+  },
+  {
+    "email_id": "seed-014",
+    "category": "billing",
+    "subject": "Charged twice this month — please refund",
+    "incoming": "Hi,\n\nI was charged twice on the 3rd — two identical charges of $49 on my card ending 4417. I only have one subscription. Please refund the duplicate and confirm this won't happen again. Invoice numbers are INV-20931 and INV-20932.\n\nRegards,\nHenry Osei",
+    "gold_reply": "Hi Henry,\n\nYou're right, and I'm sorry — INV-20932 was a duplicate charge caused by a payment retry that fired after the first charge had already succeeded.\n\nI've refunded the $49 to your card ending 4417 just now; it should appear within 3–5 business days depending on your bank. INV-20932 has been voided so your records stay clean, and I've credited one month of service to your account for the hassle.\n\nOn prevention: we've flagged the retry bug to our payments team and your account now has duplicate-charge protection enabled. If the refund hasn't landed by Friday, reply here and I'll chase it with the processor directly.\n\nApologies again,\nNadia\nBilling Team",
+    "generated_reply": "Hi Henry,\n\nI've investigated the duplicate charges on your card ending 4417. The two identical charges of $49 on the 3rd were indeed an error, and I've initiated a refund for the duplicate charge. You can expect to see the refund of $49 credited back to your card within the next 5-7 business days.\n\nI've also reviewed your subscription to prevent this from happening again. I've added a note to your account to ensure that our system recognizes you have only one active subscription, and our billing team will closely monitor your account to prevent any future duplicate charges.\n\nThe refund will be processed with reference to the incorrect invoice INV-20932. If you have any further questions or concerns, please don't hesitate to reach out.\n\nRegards,\n[Your Name]",
+    "retrieved_ids": [
+      "gen-bil-01-005",
+      "gen-bil-02-005",
+      "gen-bil-03-005"
+    ],
+    "retrieved_scores": [
+      0.2097,
+      0.2097,
+      0.2097
+    ]
+  }
+]
